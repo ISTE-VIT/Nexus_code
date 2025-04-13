@@ -17,7 +17,7 @@ A smart vacuum cleaner bot powered by NodeMCU ESP32 that features obstacle detec
 
 - Microcontroller: NodeMCU ESP32
 - Languages: C++, HTML, CSS
-- Libraries/Frameworks: Blynk, ESPAsyncWebServer, Adafruit Sensor Libraries
+- Libraries/Frameworks: Blynk, ESP32WebServer, Adafruit Sensor Libraries
 - Sensors:
   - DHT11 for temperature & humidity
   - MQ series gas sensors
